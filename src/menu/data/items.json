@@ -1,0 +1,57 @@
+[
+  {
+    "key": "item-1",
+    "label": "Item 1",
+    "route": "/item-1",
+    "style": {
+      "icon": ""
+    },
+    "children": []
+  },
+  {
+    "key": "item-2",
+    "label": "Item 2",
+    "route": "",
+    "style": {
+      "icon": ""
+    },
+    "children": [
+      {
+        "key": "sub-item-2-1",
+        "label": "Sub Item 2 - 1",
+        "route": "/sub-item-2-1",
+        "style": {
+          "icon": ""
+        },
+        "children": []
+      },
+      {
+        "key": "sub-item-2-2",
+        "label": "Sub Item 2 - 2",
+        "route": "/sub-item-2-2",
+        "style": {
+          "icon": ""
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "key": "item-3",
+    "label": "Item 3",
+    "route": "/item-3",
+    "style": {
+      "icon": ""
+    },
+    "children": []
+  },
+  {
+    "key": "item-4",
+    "label": "Item 4",
+    "route": "/item-4",
+    "style": {
+      "icon": ""
+    },
+    "children": []
+  }
+]
